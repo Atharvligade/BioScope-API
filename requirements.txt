@@ -1,11 +1,7 @@
 Flask
 Flask-Cors
-Flask-RESTful
-gunicorn
-joblib
-jsonschema
 pandas
-pickleshare
+gunicorn
 scikit-learn
 scipy
 
